@@ -1,7 +1,9 @@
 # linux-rxe-odp
 
-Slim fork showing the RXE driver changes for the local-access implicit
-ODP prototype.
+Slim fork showing the RXE driver changes for local-access implicit ODP.
+
+**Status: 2-patch RFC sent to linux-rdma 2026-05-12, awaiting review.**
+- Cover: https://lore.kernel.org/r/20260512201453.21156-1-liibaegal@gmail.com
 
 This repository contains only the modified subtree
 `drivers/infiniband/sw/rxe/` to keep the diff easy to browse. The full
